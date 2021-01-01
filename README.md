@@ -6,6 +6,7 @@ The notebooks contain technical notes intended to teach newcomers how to build s
 I recommend readers to go through the notebooks in this order:
 1. A basic network
 2. Basic CNN
-3. ResNets
+3. ResNets: Residual networks
 4. Autoencoders
-5. VAEs
+5. VAEs: Variational Autoencoders
+6. DC-GAN: Deep Convolutional Generative Adversarial network
